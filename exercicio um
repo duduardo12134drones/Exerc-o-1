@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="gokublack.html">
+        <p>humano</p>
+
+    </a>
+
+    <h1>Minha Primeira Página HTML</h1>
+    <h2>Bem-vindo à minha página</h2>
+    <ul>
+        <il>Lobizomem</il>
+        <il>Pidao</il>
+        <il>Ele fica igual a um lobo durante as noites voce sabia?</il>
+    </ul>
+    <img src="https://s1.static.brasilescola.uol.com.br/img/2019/09/licantropia.jpg">
+    
+    
+</body>
+</html>
