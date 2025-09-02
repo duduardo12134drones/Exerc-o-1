@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Dia Ideal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: purple;
+    }
+
+    h2 {
+      color: darkred;
+    }
+
+    p {
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dia Ideal</h1>
+
+  <h2>Manhã</h2>
+  <p>Tomar café, assistindo <strong>anime, série, video...</strong> ou lendo <em>mangá ou manhwa.</em> </p>
+  <p>Depende do dia.</p>
+
+  <h2>Tarde</h2>
+  <p> No geral continua o mesmo, <strong>café, anime, mangá...</strong></p>
+  <p> Mas agora tem a probablidade de eu <em>jogar</em>, no celular e algumas vezes no PS2.</p>
+
+  <h2>Noite</h2>
+  <p> Janta acompanhada mais uma vez de <strong>anime, série, video..</strong>.</p>
+  <p> Se tiver um acompanhamento de um <em>refri/suco</em> melhor ainda.</p>
+</body>
+</html>
